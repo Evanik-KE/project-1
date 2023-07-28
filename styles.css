@@ -149,3 +149,6 @@ img{
 .jana a{
     text-decoration: none;
 }
+.jana a:hover{
+    color: black;
+}
