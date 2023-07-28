@@ -81,6 +81,10 @@ section{
 .album ul li{
     padding-left: 20px;
 }
+
+.album ul li:hover{
+    color: lime;
+}
 .button{
     position: relative;
     width: 250px;
