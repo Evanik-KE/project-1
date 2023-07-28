@@ -68,10 +68,6 @@ section{
 .par ol li{
     margin-left: 20px;
 }
-.par li{
-    text-decoration: none;
-}
-
 .button{
     position: relative;
     width: 250px;
