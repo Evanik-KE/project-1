@@ -74,6 +74,7 @@ section{
     height: auto;
     background-image: url(images/2.jpg);
     background-size: contain;
+   
 }
 .button{
     position: relative;
