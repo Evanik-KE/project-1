@@ -26,7 +26,3 @@ Once the local server is running, open your web browser and navigate to http://1
 ## Live Site
 Check out the live version of the Sauti Sol band
 [Sauti Sol band](https://evanik-ke.github.io/project-1/)
-
-## Copyright and License
-© 2023 Evans Ngebe
-This project is licensed under the [**MIT License**](LICENSE). You are free to use, modify, and distribute this code as per the terms of the license.
