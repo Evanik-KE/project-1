@@ -25,6 +25,9 @@ main{
     font-weight: 700;
     color: rgb(20, 219, 99);
 }
+.logo h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .navbar{
     font-size: 18px;
     font-weight: 600;
