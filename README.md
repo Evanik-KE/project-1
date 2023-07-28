@@ -12,10 +12,6 @@ Sauti Sol is a multi-award-winning Afro-pop band hailing from Nairobi, Kenya, th
 - [Copyright and License](#copyright-and-license)
 
 ## Project Setup Instructions
-To experience the "Sauti Sol" band locally, follow these steps:
-https://github.com/Evanik-KE/project-1.git
-http://127.0.0.1:5500/index.html
-
 ## Live Site
 Check out the live version of the Sauti Sol band
 [Sauti Sol band](https://evanik-ke.github.io/project-1/)
